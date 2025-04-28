@@ -3,6 +3,8 @@
 ## Overview
 This repository contains tools and scripts for analyzing data generated from shCAST DMS (Deep Mutational Scanning) experiments for TniQ, TnsC, TnsB and sgRNA. The analysis pipeline is implemented using Jupyter Notebooks.
 
+### NGS reads files are accessible on [NCBI SRA (accession **PRJNA1238918**)](https://www.ncbi.nlm.nih.gov/bioproject/?term=(PRJNA1238918)%20AND%20bioproject_sra[filter]%20NOT%20bioproject_gap[filter])
+
 The repository is designed to process, analyze, and visualize mutational data - yielding plots and data used in the paper {REFERENCE TO BE ADDED}.
 
 ## Repository Structure
@@ -30,11 +32,11 @@ The repository is designed to process, analyze, and visualize mutational data - 
     - sgRNA_screening_Plotting.ipynb: Analysis and plotting pipeline
     - sgRNA_dict.txt: Variant-to-barcode correspondace 
     - 0124_E1_input_counts.txt: Read counts for each barcode in the input library for replicate 1
-    - 0124_E1_noArab_counts.txt: Read counts for each barcode in the Kan library for replicate 1
-    - 0124_E1_withArab_counts.txt: Read counts for each barcode in the Ara+Kan library for replicate 1
+    - 0124_E1_noArab_counts.txt: Read counts for each barcode in the Kan selection library for replicate 1
+    - 0124_E1_withArab_counts.txt: Read counts for each barcode in the Ara+Kan selection library for replicate 1
     - 0124_E2_input_counts.txt: Read counts for each barcode in the input library for replicate 2
-    - 0124_E2_noArab_counts.txt: Read counts for each barcode in the Kan library for replicate 2
-    - 0124_E2_withArab_counts.txt: Read counts for each barcode in the Ara+Kan library for replicate 2
+    - 0124_E2_noArab_counts.txt: Read counts for each barcode in the Kan selection library for replicate 2
+    - 0124_E2_withArab_counts.txt: Read counts for each barcode in the Ara+Kan selection library for replicate 2
 
 ## Reproducing analysis 
 To get started with the analysis, follow these steps:
