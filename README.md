@@ -63,3 +63,6 @@ To get started with the analysis, follow these steps:
     - `IPython`
 
 4. Follow instructions in the jupyter notebooks
+
+## Citation:
+``TBD``
