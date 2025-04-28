@@ -3,7 +3,7 @@
 ## Overview
 This repository contains tools and scripts for analyzing data generated from shCAST DMS (Deep Mutational Scanning) experiments for TniQ, TnsC, TnsB and sgRNA. The analysis pipeline is implemented using Jupyter Notebooks.
 
-### NGS reads files are accessible on NCBI SRA (accession [**PRJNA1238918**])(https://www.ncbi.nlm.nih.gov/bioproject/?term=(PRJNA1238918)%20AND%20bioproject_sra[filter]%20NOT%20bioproject_gap[filter])
+### NGS reads files are accessible on NCBI SRA (accession [**PRJNA1238918**](https://www.ncbi.nlm.nih.gov/bioproject/?term=(PRJNA1238918)%20AND%20bioproject_sra[filter]%20NOT%20bioproject_gap[filter]))
 
 The repository is designed to process, analyze, and visualize mutational data - yielding plots and data used in the paper {REFERENCE TO BE ADDED}.
 
