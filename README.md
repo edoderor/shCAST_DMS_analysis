@@ -58,5 +58,8 @@ To get started with the analysis, follow these steps:
     - `Scipy`
     - `Frustratomer`
     - `RE`
+    - `notebook`
+    - `jupyter`
+    - `IPython`
 
 4. Follow instructions in the jupyter notebooks
