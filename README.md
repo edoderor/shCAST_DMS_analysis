@@ -25,16 +25,16 @@ To get started with the analysis, follow these steps:
    cd shCAST_DMS_analysis
 
 3. Create a conda enviroment with the following packages
-    -`numpy`
-    -`pandas`
-    -`Biopython`
-    -`Matplotlib`
-    -`Seaborn`
-    -`Plotly`
-    -`Joblib`
-    -`TQDM`
-    -`Scipy`
-    -`Frustratomer`
-    -`RE`
+    - `numpy`
+    - `pandas`
+    - `Biopython`
+    - `Matplotlib`
+    - `Seaborn`
+    - `Plotly`
+    - `Joblib`
+    - `TQDM`
+    - `Scipy`
+    - `Frustratomer`
+    - `RE`
 
 4. Follow instructions in the jupyter notebooks
