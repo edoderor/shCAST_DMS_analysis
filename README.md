@@ -48,7 +48,7 @@ To get started with the analysis, follow these steps:
    git clone https://github.com/your-username/shCAST_DMS_analysis.git
    cd shCAST_DMS_analysis
 
-3. Create a conda enviroment with the following packages
+3. Create a conda enviroment with the following packages, a YML file is provided in this repo (screen_env.yml).
     - `numpy`
     - `pandas`
     - `Biopython`
